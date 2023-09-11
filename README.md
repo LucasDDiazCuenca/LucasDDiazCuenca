@@ -22,7 +22,7 @@
 </div>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I've recently finished ISDI CODERS' bootcamp & I'm currently looking for a front-end or full-stach fulltime job.\
+🎓 &nbsp;I've recently finished ISDI CODERS' bootcamp & I'm currently looking for a front-end or full-stack fulltime job.\
 🌱 &nbsp;I'm on track for learning more about 3D design, Socket server, and new technologies.\
 ✍️ &nbsp;In my free time, I pursue 3D Design, lean idioms (japanese, sweedish) and playing piano.  
 ✉️ &nbsp;You can shoot me an email at lucasdamian30@gmail.com! I'll try to respond as soon as I can.\
