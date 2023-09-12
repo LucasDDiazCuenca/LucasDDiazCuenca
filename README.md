@@ -26,7 +26,7 @@
 🌱 &nbsp;I'm on track for learning more about 3D design, Socket server, and new technologies.\
 ✍️ &nbsp;In my free time, I pursue 3D Design, lean idioms (japanese, sweedish) and playing piano.  
 ✉️ &nbsp;You can shoot me an email at lucasdamian30@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1KrKIUXm4V_SS9Ndox4CJ4ItBX_yyRVqp/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15fCxGV7UWRsFNixJyNKPezKbaWOP3eA9/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 
