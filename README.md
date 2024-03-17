@@ -11,7 +11,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About me👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">About me&nbsp;&nbsp;👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -24,20 +24,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know&nbsp;&nbsp;📗</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 
 <p align="center"> Related to Front:&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,threejs,react,redux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,threejs,react,redux,angular,vue,jest&perline=14" />
   </a>
 </p>
 
 <p align="center"> Related to Back:&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,mysql,php,laravel,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,php,laravel,postman&perline=14" />
   </a>
 </p>
 
@@ -49,11 +49,11 @@
 
 <p align="center"> Miscellaneous:&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,bash,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=apple,git,github,gitlab,vscode,vite,bash,notion,discord&perline=14" />
   </a>
 </p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Contact with me&nbsp;&nbsp;💻</h2>
 <div align="center">
 <br/>
 
