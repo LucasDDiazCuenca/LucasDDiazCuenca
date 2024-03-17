@@ -17,12 +17,9 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Last year, i've finished ISDI CODERS' bootcamp & I'm currently looking for a front-end or full-stack fulltime job.\
-🌱 &nbsp;I'm on track for learning more about 3D design, Socket server, and new technologies.\
-✍️ &nbsp;In my free time, I pursue 3D Design, lean idioms (japanese, sweedish) and playing piano.  
-✉️ &nbsp;You can shoot me an email at lucasdamian30@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15fCxGV7UWRsFNixJyNKPezKbaWOP3eA9/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-
-
+✍️ &nbsp;In my spare time, I'm learning 3D Design, languages (like japanese, sweedish) and playing piano.  
+✉️ &nbsp;You can shoot me an email at lucasdamian30@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1UVokzrHDYY6pD4QJsdhRjxfKETfg2R1v/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -31,15 +28,33 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+
+<p align="center"> Related to Front:&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,bash,html,css,sass,bootstrap,tailwind,js,threejs,php,ts,nodejs,mongodb,mysql,laravel,react,redux,threejs,figma,notion,blender,ai,ps,pr&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,threejs,react,redux&perline=14" />
+  </a>
+</p>
+
+<p align="center"> Related to Back:&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,mysql,php,laravel,&perline=14" />
+  </a>
+</p>
+
+<p align="center"> Related to Design:&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,blender,ai,ps,pr&perline=14" />
+  </a>
+</p>
+
+<p align="center"> Miscellaneous:&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,bash,notion&perline=14" />
   </a>
 </p>
 
 <h2 align="center">Connect with me:</h2>
 <div align="center">
-Feel free to reach me out and visit my Portfolio
 <br/>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-diaz-cuenca/)
