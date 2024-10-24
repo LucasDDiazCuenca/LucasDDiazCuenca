@@ -16,10 +16,10 @@
 </div>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Last year, i've finished ISDI CODERS' bootcamp & I'm currently looking for a front-end or full-stack fulltime job.\
+🎓 &nbsp;In early 2022, i've finished ISDI CODERS' bootcamp & I'm currently looking for a front-end or full-stack fulltime job.\
 ✍️ &nbsp;In my spare time, I'm learning 3D Design, languages (like japanese, sweedish) and playing piano.  
 ✉️ &nbsp;You can shoot me an email at lucasdamian30@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1UVokzrHDYY6pD4QJsdhRjxfKETfg2R1v/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Website](https://lucasdiaz.site/) for more details about me. I'm open to feedback and suggestions!
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
